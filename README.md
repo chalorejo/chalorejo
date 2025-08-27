@@ -1,7 +1,8 @@
 Hello! I am Charisse ✮⋆˙
 
 ♡ Computer Science Student at the University of the Philippines Mindanao<br/>
-♡ Head of the Creatives Committee at Amazon Web Services Learning Club - UP Mindanao<br/>
+♡ I am exploring the niches in Computer Science, such as DevOps, Hacking and Cybersecurity, and more.
+♡ Head of the Creatives Committee at Amazon Web Services Cloud Club - UP Mindanao<br/>
 ♡ Freelance Digital Artist and Graphic Designer<br/>
 ♡ My hobbies include drawing, driving, and jogging<br/>
 ♡ I post my drawings on [Instagram](https://www.instagram.com/charissedoesart/)
