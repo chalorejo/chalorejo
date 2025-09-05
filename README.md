@@ -1,23 +1,81 @@
-Hello! I am Charisse ✮⋆˙
+<div align="center">
 
-♡ Computer Science Student at the University of the Philippines Mindanao<br/>
-♡ I am exploring the niches in Computer Science, such as DevOps, Hacking and Cybersecurity, and more.
-♡ Head of the Creatives Committee at Amazon Web Services Cloud Club - UP Mindanao<br/>
-♡ Freelance Digital Artist and Graphic Designer<br/>
-♡ My hobbies include drawing, driving, and jogging<br/>
-♡ I post my drawings on [Instagram](https://www.instagram.com/charissedoesart/)
+<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/skull_1f480.png" width="80" alt="skull"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chalorejo&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=chalorejo&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chalorejo&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 𝕮𝖍𝖆𝖗𝖎𝖘𝖘𝖊 𝕮𝖆𝖗𝖉𝖎𝖓𝖊𝖘 𝕷𝖔𝖗𝖊𝖏𝖔
+### ✮⋆˙ 𝔾𝕠𝕥𝕙𝕚𝕔 𝕮𝖔𝖒𝖕𝖚𝖙𝖊𝖗 𝕾𝖈𝖎𝖊𝖓𝖈𝖊 𝕾𝖙𝖚𝖉𝖊𝖓𝖙 ✮⋆˙
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chalorejo&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/skull_1f480.png" width="30" alt="skull"/> 𝕯𝖗𝖆𝖜𝖎𝖓𝖌 𝖎𝖓 𝖙𝖍𝖊 𝖉𝖆𝖗𝖐. 𝕮𝖔𝖉𝖎𝖓𝖌 𝖎𝖓 𝖙𝖍𝖊 𝖘𝖍𝖆𝖉𝖔𝖜𝖘. <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/skull_1f480.png" width="30" alt="skull"/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=chalorejo&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🦴 𝕬𝖇𝖔𝖚𝖙 𝕸𝖊
+
+- 🏴 Computer Science Student @ **University of the Philippines Mindanao**
+- 🦇 Exploring the crypts of DevOps, Hacking, Cybersecurity, and more
+- 🕸️ Head of Creatives @ **AWS Cloud Club - UP Mindanao**
+- 🖤 Freelance Digital Artist & Graphic Designer
+- 🦴 Hobbies: Drawing, driving, jogging under moonlight
+- 🕯️ My art lives on [Instagram](https://www.instagram.com/charissedoesart/)
+
+---
+
+## 🦴 𝕿𝖊𝖈𝖍 𝕾𝖙𝖆𝖈𝖐
+
+<div align="center">
+
+![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=Flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-black?style=for-the-badge&logo=krita&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-black?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-black?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-black?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 🦴 𝕲𝖎𝖙𝕳𝖚𝖇 𝕾𝖙𝖆𝖙𝖘
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=chalorejo&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000" alt="GitHub Stats" />
+<br>
+<img src="https://streak-stats.demolab.com?user=chalorejo&theme=black&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chalorejo&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🦴 𝕿𝖔𝖕 𝕮𝖔𝖓𝖙𝖗𝖎𝖇𝖚𝖙𝖊𝖉 𝕽𝖊𝖕𝖔
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=chalorejo&limit=5&theme=black&hide_border=true" alt="Top Contributed Repo" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/skull_1f480.png" width="40" alt="skull"/>
+
+</div>
+
+<!-- 🦴 Proudly coded in the shadows with GPRM ( https://gprm.itsvg.in ) -->
