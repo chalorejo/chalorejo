@@ -3,7 +3,7 @@
 <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/skull_1f480.png" width="80" alt="skull"/>
 
 # 𝕮𝖍𝖆𝖗𝖎𝖘𝖘𝖊 𝕮𝖆𝖗𝖉𝖎𝖓𝖊𝖘 𝕷𝖔𝖗𝖊𝖏𝖔
-### ✮⋆˙ 𝔾𝕠𝕥𝕙𝕚𝕔 𝕮𝖔𝖒𝖕𝖚𝖙𝖊𝖗 𝕾𝖈𝖎𝖊𝖓𝖈𝖊 𝕾𝖙𝖚𝖉𝖊𝖓𝖙 ✮⋆˙
+### ✮⋆˙ 𝕮𝖔𝖒𝖕𝖚𝖙𝖊𝖗 𝕾𝖈𝖎𝖊𝖓𝖈𝖊 𝕾𝖙𝖚𝖉𝖊𝖓𝖙 ✮⋆˙
 
 <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/skull_1f480.png" width="30" alt="skull"/> 𝕯𝖗𝖆𝖜𝖎𝖓𝖌 𝖎𝖓 𝖙𝖍𝖊 𝖉𝖆𝖗𝖐. 𝕮𝖔𝖉𝖎𝖓𝖌 𝖎𝖓 𝖙𝖍𝖊 𝖘𝖍𝖆𝖉𝖔𝖜𝖘. <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/skull_1f480.png" width="30" alt="skull"/>
 
@@ -30,6 +30,9 @@
 ![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -62,20 +65,8 @@
 
 ---
 
-## 🦴 𝕿𝖔𝖕 𝕮𝖔𝖓𝖙𝖗𝖎𝖇𝖚𝖙𝖊𝖉 𝕽𝖊𝖕𝖔
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=chalorejo&limit=5&theme=black&hide_border=true" alt="Top Contributed Repo" />
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/skull_1f480.png" width="40" alt="skull"/>
 
 </div>
-
-<!-- 🦴 Proudly coded in the shadows with GPRM ( https://gprm.itsvg.in ) -->
