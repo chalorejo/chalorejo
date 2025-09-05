@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/skull_1f480.png" width="80" alt="skull"/>
+<img src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif" width="120" alt="gothic skull"/>
 
 # 𝕮𝖍𝖆𝖗𝖎𝖘𝖘𝖊 𝕮𝖆𝖗𝖉𝖎𝖓𝖊𝖘 𝕷𝖔𝖗𝖊𝖏𝖔
-### ✮⋆˙ 𝕮𝖔𝖒𝖕𝖚𝖙𝖊𝖗 𝕾𝖈𝖎𝖊𝖓𝖈𝖊 𝕾𝖙𝖚𝖉𝖊𝖓𝖙 ✮⋆˙
+### ✮⋆˙ 𝔾𝕠𝕥𝕙𝕚𝕔 𝕮𝖔𝖒𝖕𝖚𝖙𝖊𝖗 𝕾𝖈𝖎𝖊𝖓𝖈𝖊 𝕾𝖙𝖚𝖉𝖊𝖓𝖙 ✮⋆˙
 
-<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/skull_1f480.png" width="30" alt="skull"/> 𝕯𝖗𝖆𝖜𝖎𝖓𝖌 𝖎𝖓 𝖙𝖍𝖊 𝖉𝖆𝖗𝖐. 𝕮𝖔𝖉𝖎𝖓𝖌 𝖎𝖓 𝖙𝖍𝖊 𝖘𝖍𝖆𝖉𝖔𝖜𝖘. <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/skull_1f480.png" width="30" alt="skull"/>
+☠︎ 𝕯𝖗𝖆𝖜𝖎𝖓𝖌 𝖎𝖓 𝖙𝖍𝖊 𝖉𝖆𝖗𝖐. 𝕮𝖔𝖉𝖎𝖓𝖌 𝖎𝖓 𝖙𝖍𝖊 𝖘𝖍𝖆𝖉𝖔𝖜𝖘. ☠︎
 
 </div>
 
@@ -67,6 +67,6 @@
 
 <div align="center">
 
-<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/skull_1f480.png" width="40" alt="skull"/>
+☠︎
 
 </div>
