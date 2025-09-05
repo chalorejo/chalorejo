@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif" width="120" alt="gothic skull"/>
+<img src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif" width="200" alt="gothic skull"/>
 
 # ͓̽C͓͓̽̽h͓̽a͓͓̽̽G͓͓̽̽P͓͓̽̽T͓͓̽̽D͓͓̽̽o͓͓̽̽t͓͓̽̽C͓͓̽̽o͓͓̽̽m͓̽
 ### ✮⋆˙ Computer Science Student ✮⋆˙
@@ -11,7 +11,7 @@
 
 ---
 
-## 🦴 𝕬𝖇𝖔𝖚𝖙 𝕸𝖊
+## ⚚ 𝔄𝔟𝔬𝔲𝔱 𝔐𝔢
 
 - 🏴 Computer Science Student @ **University of the Philippines Mindanao**
 - 🦇 Exploring the crypts of DevOps, Hacking, Cybersecurity, and more
@@ -22,7 +22,7 @@
 
 ---
 
-## 🦴 𝕿𝖊𝖈𝖍 𝕾𝖙𝖆𝖈𝖐
+## ⚚ 𝔗𝔢𝔠𝔥 𝔖𝔱𝔞𝔠𝔨
 
 <div align="center">
 
@@ -51,7 +51,7 @@
 
 ---
 
-## 🦴 𝕲𝖎𝖙𝕳𝖚𝖇 𝕾𝖙𝖆𝖙𝖘
+## ⚚ 𝔊𝔦𝔱𝔥𝔲𝔟 𝔖𝔱𝔞𝔱𝔰
 
 <div align="center">
 
