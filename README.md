@@ -51,18 +51,6 @@
 
 ---
 
-## ⚚ 𝔊𝔦𝔱𝔥𝔲𝔟 𝔖𝔱𝔞𝔱𝔰
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=chalorejo&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000" alt="GitHub Stats" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chalorejo&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" alt="Top Languages" />
-
-</div>
-
----
-
 <div align="center">
 
 ☠︎
