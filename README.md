@@ -1,15 +1,17 @@
-<div align="center">
 
-<img src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif" width="200" alt="gothic skull"/>
 
 # ͓̽C͓͓̽̽h͓̽a͓͓̽̽G͓͓̽̽P͓͓̽̽T͓͓̽̽D͓͓̽̽o͓͓̽̽t͓͓̽̽C͓͓̽̽o͓͓̽̽m͓̽
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHF2bnptbGwwZG9jaW01bG51bzVyZGhlYzk0NXF1YWc2bHcxMG1leCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LIRyja9ZywNEqter9b/giphy.gif" width=600 alt="gothic skull"/>
+
+
+
 ### ✮⋆˙ Computer Science Student ✮⋆˙
 
 ☠︎ "ℑ𝔫 𝔗𝔥𝔢 ℌ𝔞𝔫𝔡𝔰 𝔒𝔣 𝔄𝔫 ℑ𝔫𝔠𝔬𝔪𝔭𝔢𝔱𝔢𝔫𝔱, 𝔓𝔬𝔴𝔢𝔯 𝔅𝔯𝔦𝔫𝔤𝔰 𝔑𝔬𝔱𝔥𝔦𝔫𝔤 𝔅𝔲𝔱 ℜ𝔲𝔦𝔫.” 𝔐𝔢𝔯𝔲𝔢𝔪 (ℌ𝔲𝔫𝔱𝔢𝔯 𝔵 ℌ𝔲𝔫𝔱𝔢𝔯) ☠︎
 
 </div>
 
----
 
 ## ⚚ 𝔄𝔟𝔬𝔲𝔱 𝔐𝔢
 
@@ -20,7 +22,6 @@
 - 🦴 Hobbies: Drawing, driving, jogging under moonlight
 - 🕯️ My art lives on [Instagram](https://www.instagram.com/charissedoesart/)
 
----
 
 ## ⚚ 𝔗𝔢𝔠𝔥 𝔖𝔱𝔞𝔠𝔨
 
@@ -55,4 +56,3 @@
 
 ☠︎
 
-</div>
